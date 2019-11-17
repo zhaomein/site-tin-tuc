@@ -20,6 +20,7 @@
                 </ul>
                 <div class="clear"></div>
             </div>
+
             <div class="card-body">
                 <div class="table-responsive">
                     <table class="table table-hover">
@@ -63,6 +64,7 @@
         </div>
     </div>
 </div>
+
 <script>
     $(document).ready(function() {
         $('button.delete').click(function(e) {
